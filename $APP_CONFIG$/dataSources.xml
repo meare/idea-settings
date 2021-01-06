@@ -1,0 +1,64 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="cmpayments@localhost1" uuid="c02d7a65-0f50-4bbf-a7d0-848fd359a7ea">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/cmpayments</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cm-payments@aws-dev" uuid="edd79728-0e6c-4e87-b6ca-2b08bd352246">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://a-dev-rds-cm-payments-cmpayments-oo3fejwe.cge812vvcfx4.eu-central-1.rds.amazonaws.com:5432/cmpayments</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cm@aws-dev" uuid="70651c66-1d0b-4806-ab20-7705ab86acbc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rds-postgres-dev-consentmanagement-cm.cge812vvcfx4.eu-central-1.rds.amazonaws.com:5432/cm</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cm@aws-test" uuid="22eab2a5-b2f7-49dd-99ae-f22d3634083d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://a-tst-rds-cm-cm-2kwtpizp.ctrbmmesaht5.eu-central-1.rds.amazonaws.com:5432/cm</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cm-payments@aws-test" uuid="f77a0285-05b6-4636-9aec-b40047d49369">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://a-tst-rds-cm-payments-cmpayments-7lbp80au.ctrbmmesaht5.eu-central-1.rds.amazonaws.com:5432/cmpayments</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cm@localhost" uuid="1811bd0d-1c24-49cb-851d-201223dc32fa">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/cm</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="twb_dev@localhost" uuid="852d3220-6779-460f-ba7c-e540d03c2079">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/twb_dev</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="statements@aws-test" uuid="bb1f37a2-5606-4f23-aa2b-b739d3e5e832">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rds-postgres-test-statements-statements.cge812vvcfx4.eu-central-1.rds.amazonaws.com:5432/statements</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ccc@rds-postgres-tst-customercontractcomponents-ccc.cvwr5autupvb.eu-central-1.rds.amazonaws.com" uuid="21c5b1cb-4e32-4867-b330-78429c0a8ca8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rds-postgres-tst-customercontractcomponents-ccc.cvwr5autupvb.eu-central-1.rds.amazonaws.com:5432/ccc</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="mintos_user@localhost" uuid="35a15774-ee80-4d5b-b3ef-8fea487efee1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/cm</jdbc-url>
+    </data-source>
+  </component>
+</application>

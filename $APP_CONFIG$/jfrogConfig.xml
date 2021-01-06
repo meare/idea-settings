@@ -1,0 +1,12 @@
+<application>
+  <component name="GlobalSettings">
+    <option name="xrayConfig">
+      <XrayServerConfigImpl>
+        <option name="url" value="" />
+        <excludedPaths>**/*{.idea,test,node_modules}*</excludedPaths>
+        <connectionRetries>3</connectionRetries>
+        <connectionTimeout>60</connectionTimeout>
+      </XrayServerConfigImpl>
+    </option>
+  </component>
+</application>

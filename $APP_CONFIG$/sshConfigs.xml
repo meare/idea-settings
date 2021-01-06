@@ -1,0 +1,12 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="bastion.dev" id="1051a095-1344-4d16-ba5e-02e6d1bfe774" nameFormat="DESCRIPTIVE" username="andrejs.mironovs" />
+      <sshConfig authType="PASSWORD" host="18.195.66.200" id="43888063-16d3-492c-9617-2f5408745162" port="22" nameFormat="DESCRIPTIVE" username="andrejs.mironovs" />
+      <sshConfig authType="PASSWORD" host="35.156.74.172" id="a182972a-cf90-49da-bdd1-10b867be5526" nameFormat="DESCRIPTIVE" username="andrejs.mironovs" />
+      <sshConfig authType="PASSWORD" host="bastion.test" id="3a6daa6a-84fe-4b0b-9ca7-6847443688b6" nameFormat="DESCRIPTIVE" username="andrejs.mironovs" />
+      <sshConfig authType="PASSWORD" host="35.156.74.172" id="c4949334-0a78-41b1-9d95-827bc853bbea" nameFormat="DESCRIPTIVE" username="andrejs.mironovs" />
+      <sshConfig host="18.195.88.44" id="48cd411a-cae1-4345-8002-078392c98db9" keyPath="$USER_HOME$/Downloads/psd2-tst.pem" nameFormat="DESCRIPTIVE" username="ec2-user" />
+    </configs>
+  </component>
+</application>

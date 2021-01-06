@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SpEL" injector-id="java">
+      <display-name>CircuitBreaker.name (io.github.resilience4j.circuitbreaker.annotation)</display-name>
+      <place><![CDATA[psiMethod().withName("name").withParameters().definedInClass("io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker")]]></place>
+    </injection>
+  </component>
+</application>

@@ -5,9 +5,9 @@
       <mapping pattern="SortableColumnHeader.js" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="ShopInformationForm" type="PLAIN_TEXT" />
-      <mapping pattern="22" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="22" type="PLAIN_TEXT" />
+      <mapping pattern="ShopInformationForm" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="http" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
@@ -31,8 +31,8 @@
       <mapping ext="twig" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />

@@ -10,7 +10,6 @@
       <mapping pattern="ShopInformationForm" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="http" type="PLAIN_TEXT" />
-      <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="hosts-jitsi" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />

@@ -4,6 +4,8 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="password" type="AUTO_DETECTED" />
       <mapping pattern="SortableColumnHeader.js" type="JavaScript" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="22" type="PLAIN_TEXT" />
       <mapping pattern="ShopInformationForm" type="PLAIN_TEXT" />
